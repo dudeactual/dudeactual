@@ -6,6 +6,6 @@
 - 👯 I’m looking to collaborate on [unshake.gg](https://replit.com/team/unshake)
 - 🤔 I’m looking for help with [unshake.gg](https://replit.com/team/unshake)
 - 📫 How to reach me: [Github](https://github.com/dudeactual) and [Repl](https://replit.com/@dudeactualdev)
-- 😄 "Pronouns": I was born with male parts, therefore, I AM MALE, (same thing goes for ppl with male parts)
+- 😄 "Pronouns": I was born with male parts, therefore, I AM MALE, (same thing goes for ppl with male parts, take a hint LGTBQ community)
 - ⚡ Fun fact: Roblox Developer
 
