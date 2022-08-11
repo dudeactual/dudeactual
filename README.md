@@ -9,7 +9,4 @@
 - 😄 "Pronouns": I was born with male parts, therefore, I AM MALE, (same thing goes for ppl with male parts, take a hint LGTBQ community)
 - ⚡ Fun fact: Roblox Developer
 
-#### Doge Coin
-![Doge](https://imagestorage.dudeactualdev.repl.co/Dogecoin_QR_code.png)
-#### Ethereum
-![Ether](https://imagestorage.dudeactualdev.repl.co/Ethereum_QR_code.png)
+#### Doge Coin ![Doge](https://imagestorage.dudeactualdev.repl.co/Dogecoin_QR_code.png) #### Ethereum ![Ether](https://imagestorage.dudeactualdev.repl.co/Ethereum_QR_code.png)
