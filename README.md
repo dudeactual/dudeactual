@@ -9,3 +9,5 @@
 - 😄 "Pronouns": I was born with male parts, therefore, I AM MALE, (same thing goes for ppl with male parts, take a hint LGTBQ community)
 - ⚡ Fun fact: Roblox Developer
 
+![Doge](https://imagestorage.dudeactualdev.repl.co/Dogecoin_QR_code.png)
+![Ether](https://imagestorage.dudeactualdev.repl.co/Ethereum_QR_code.png)
