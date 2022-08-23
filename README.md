@@ -8,9 +8,3 @@
 - 📫 How to reach me: [Github](https://github.com/dudeactual) and [Repl](https://replit.com/@dudeactualdev)
 - 😄 "Pronouns": I was born with male parts, therefore, I AM MALE
 - ⚡ Fun fact: Roblox Developer
-
-#### Doge Coin
-![Doge](https://imagestorage.dudeactualdev.repl.co/Dogecoin_QR_code.png)
-
-#### Ethereum
-![Ether](https://imagestorage.dudeactualdev.repl.co/Ethereum_QR_code.png)
