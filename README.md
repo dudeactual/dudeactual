@@ -8,3 +8,5 @@
 - 📫 How to reach me: [Github](https://github.com/dudeactual) and [Repl](https://replit.com/@dudeactualdev)
 - 😄 "Pronouns": I was born with male parts, therefore, I AM MALE
 - ⚡ Fun fact: Roblox Developer
+
+![Stats}(https://github-readme-stats.vercel.app/api?username=dudeactual&show_icons=true&theme=tokyonight)
