@@ -10,3 +10,10 @@
 - ⚡ Fun fact: Roblox Developer
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=dudeactual&show_icons=true&theme=tokyonight)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dudeactual=tokyonight)
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=dudeactual)
