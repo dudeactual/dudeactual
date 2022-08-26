@@ -12,7 +12,6 @@ I'm R. Gardiner, a standard web developer
 - 😄 "Pronouns": I was born with male parts, therefore, I AM MALE
 - ⚡ Fun fact: Roblox Developer
 
-<p align="center">
 ![Stats](https://github-readme-stats.vercel.app/api?username=dudeactual&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudeactual&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -21,5 +20,3 @@ I'm R. Gardiner, a standard web developer
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=dudeactual)
-
-</p>
