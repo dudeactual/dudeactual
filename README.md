@@ -5,12 +5,10 @@ I'm R. Gardiner, a standard web developer
 </h3>
 
 - 🔭 I’m currently working on [Arccticy](https://www.arccticy.repl.co)
-- 🌱 I’m currently learning PY
-- 👯 I’m looking to collaborate on [unshake.gg](https://replit.com/team/unshake)
-- 🤔 I’m looking for help with [unshake.gg](https://replit.com/team/unshake)
+- 🌱 I’m currently learning JS, Java
 - 📫 How to reach me: [Github](https://github.com/dudeactual) and [Repl](https://replit.com/@dudeactualdev)
 - 😄 "Pronouns": I was born with male parts, therefore, I AM MALE
-- ⚡ Fun fact: Roblox Developer
+- ⚡ Fun fact: I play Marching Band Tenor Drum
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=dudeactual&show_icons=true&theme=tokyonight)
 
